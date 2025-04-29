@@ -8,7 +8,7 @@ A combination of **Power BI**, **Power Query**, and **DAX** was used for data tr
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - **Total Customers**: 963  
 - **Active Users**: 680 (70.61%)  
@@ -31,7 +31,7 @@ A combination of **Power BI**, **Power Query**, and **DAX** was used for data tr
 
 ---
 
-## 📱 Device Type-Based Churn & Revenue Analysis
+## Device Type-Based Churn & Revenue Analysis
 
 | Device Type     | Total Users | Active % | Inactive % | Revenue Gained (₦M) | Revenue Lost (₦M) | Lost % (within Type) | ARPU (₦K) | Avg. Rating |
 |------------------|-------------|----------|------------|----------------------|-------------------|------------------------|------------|--------------|
@@ -45,7 +45,7 @@ A combination of **Power BI**, **Power Query**, and **DAX** was used for data tr
 
 ---
 
-## 🎯 Recommendations
+************* Recommendations ****************
 
 ### 1. **Retain High-Value Customers (5G Broadband & MiFi)**
 - Launch **loyalty programs**, **priority support**, and **network upgrades**.
@@ -70,7 +70,7 @@ A combination of **Power BI**, **Power Query**, and **DAX** was used for data tr
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Power BI** – for interactive dashboards
 - **Power Query** – for data transformation
@@ -79,4 +79,4 @@ A combination of **Power BI**, **Power Query**, and **DAX** was used for data tr
 
 ---
 
-> ✅ This repository showcases the end-to-end churn analysis with actionable insights for business stakeholders and supports strategic retention planning at MTN Nigeria.
+> This repository showcases the end-to-end churn analysis with actionable insights for business stakeholders and supports strategic retention planning at MTN Nigeria.
